@@ -1,0 +1,13 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,AHOY 52,146.520000,,0.600000,,91.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+1,ISS AOS,145.820000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,ISS APRS - Acquisition of Signal,,,,
+2,ISS TCA,145.825000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,ISS APRS - Time of Closest Approach,,,,
+3,ISS LOS,145.830000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,ISS APRS - Loss of Signal,,,,
+4,ISS SSTV,145.800000,,0.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,SSTV,,,,
+5,ISS +15,437.815000,split,145.995000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,ISS Voice Repeater - Start of Pass,,,,
+6,ISS +10,437.810000,split,145.992500,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+7,ISS +5,437.805000,split,145.990000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+8,ISS 0,437.800000,split,145.990000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,ISS Voice Repeater - Zenith,,,,
+9,ISS -5,437.795000,split,145.990000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+10,ISS -10,437.790000,split,145.987500,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,,,,,
+11,ISS -15,437.785000,split,145.985000,Tone,67.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,5.0W,ISS Voice Repeater - End of Pass,,,,
